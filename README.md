@@ -14,12 +14,19 @@ This repository consists of projects that use data science/statistical modeling 
 
 * **Keywords**(R, Python, Economics, Climate Change, Agronomy)
 
+<img src="https://github.com/johnwoodill/US-Degree-Days-Heat-Map/raw/master/dd30.png?raw=true" width="500">
+
  
-###  [Business Case: Wine Quality and Price](https://github.com/alexhuang1117/Data-Science-Portfolio/blob/master/Bitcoin_Analysis/Bitcoin_Analysis.md)
+###  [Business Case: Wine Quality and Price](https://www.kaggle.com/johnwoodill/business-case-predicting-quality-wine-and-prices/notebook)
+
 * Predict wine quality based on biophysical characteristics.
+
 * Model using Multinomial logit, Linear Discriminant Analysis, Random Forest, and Extreme Gradient Boosting
 
+
 * **Keywords**(R, Classification, Economics)
+
+<img src="https://www.kaggleusercontent.com/kf/7360315/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..gWlfStz6tFR7w5xpOPzGTQ.i3-_dhWuYH916TDR5vfVkhs_c4anBfwbl_fGKYwFaZgbGOqor0R8mHRqnwH1vDJhOR8Yng9WvL3AnvPd2ijRMML5x1Ti6pPVGO0GTOkXuDYt9LXbgY6zjk8PyRuqEJj19F1XdEtiw3a7q6Sq4CoMZEhmJvqRhkr6gdmKxTlE4zbZinqpDBAP9bjNcwSCiv5a.G1E8Zb9RmG2VXOfpV14NZw/__results___files/__results___18_1.png" width="500">
 
  
 ---
