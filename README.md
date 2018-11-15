@@ -4,6 +4,20 @@ This repository consists of projects that use data science/statistical modeling 
  
 ## Projects:
 
+###  [Fine Scale Weather Data from 1900-2013](https://github.com/johnwoodill/Fine-Scale-Weather-Interpolation)
+
+* Builds daily gridded weather data for the continental United States from 1900-2013.
+
+* Relative anomaly spline interpolation technique calculates daily weather data for 460,000 2.5km x 2.5km grids in the US.
+
+* Aggregates down to county level weather
+
+* **Keywords**(R, Economics, Climate Change, Weather)
+
+<img src="https://github.com/johnwoodill/Fine-Scale-Weather-Interpolation/raw/master/Figures/RA_Interpolation.png" width="500">
+
+
+
 ###  Nonlinear Temperature Distributions [[R package](https://github.com/johnwoodill/nonlineartempr)] [[Python Package](https://github.com/johnwoodill/nonlineartemppy)]
 
 * Calcuate nonlinear temperature distributions degree days and time in each degree.
