@@ -40,7 +40,7 @@ This repository consists of projects that use data science/statistical modeling 
 
 * **Keywords**(R, Classification, Economics)
 
-<img src="https://www.kaggleusercontent.com/kf/7360315/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..gWlfStz6tFR7w5xpOPzGTQ.i3-_dhWuYH916TDR5vfVkhs_c4anBfwbl_fGKYwFaZgbGOqor0R8mHRqnwH1vDJhOR8Yng9WvL3AnvPd2ijRMML5x1Ti6pPVGO0GTOkXuDYt9LXbgY6zjk8PyRuqEJj19F1XdEtiw3a7q6Sq4CoMZEhmJvqRhkr6gdmKxTlE4zbZinqpDBAP9bjNcwSCiv5a.G1E8Zb9RmG2VXOfpV14NZw/__results___files/__results___18_1.png" width="500">
+<img src="https://github.com/johnwoodill/Data-Science-Portfolio/raw/master/figures/cv_model_runs_all_var_three_groups_white.pdf" width="500">
 
  
 ---
