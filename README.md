@@ -1,8 +1,7 @@
-# Data Science Portfolio
- 
-This repository consists of projects that use data science/statistical modeling to derive insights into data and generate predictions. 
- 
-## Projects:
+# Data Science Portfolio/Projects
+
+-------------------
+
 
 ###  [Fine Scale Weather Data from 1900-2013](https://github.com/johnwoodill/Fine-Scale-Weather-Interpolation)
 
@@ -10,13 +9,13 @@ This repository consists of projects that use data science/statistical modeling 
 
 * Relative anomaly spline interpolation technique calculates daily weather data for 460,000 2.5km x 2.5km grids in the US.
 
-* Aggregates down to county level weather
+* Aggregates down to county level weather data.
 
 * **Keywords**(R, Economics, Climate Change, Weather)
 
 <img src="https://github.com/johnwoodill/Fine-Scale-Weather-Interpolation/raw/master/Figures/RA_Interpolation.png" width="500">
 
-
+-------------------
 
 ###  Nonlinear Temperature Distributions [[R package](https://github.com/johnwoodill/nonlineartempr)] [[Python Package](https://github.com/johnwoodill/nonlineartemppy)]
 
@@ -30,6 +29,7 @@ This repository consists of projects that use data science/statistical modeling 
 
 <img src="https://github.com/johnwoodill/US-Degree-Days-Heat-Map/raw/master/dd30.png?raw=true" width="500">
 
+-------------------
  
 ###  [Business Case: Wine Quality and Price](https://www.kaggle.com/johnwoodill/business-case-predicting-quality-wine-and-prices/notebook)
 
@@ -40,7 +40,6 @@ This repository consists of projects that use data science/statistical modeling 
 
 * **Keywords**(R, Classification, Economics)
 
-<img src="https://github.com/johnwoodill/Data-Science-Portfolio/raw/master/figures/cv_model_runs_all_var_three_groups_white.pdf" width="500">
+<img src="https://github.com/johnwoodill/Data-Science-Portfolio/raw/master/figures/wine_quality_final_plot.png" width="500">
 
- 
----
+ -------------------
