@@ -13,7 +13,7 @@
 
 * **Keywords**(R, Economics, Climate Change, Weather)
 
-<img src="https://github.com/johnwoodill/Fine-Scale-Weather-Interpolation/raw/master/Figures/RA_Interpolation.png" width="500">
+<img src="https://github.com/johnwoodill/Data-Science-Portfolio/raw/master/figures/daily_temp_spline.png" width="500">
 
 -------------------
 
