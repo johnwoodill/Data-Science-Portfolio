@@ -7,7 +7,7 @@
 
 * Builds daily gridded weather data for the continental United States from 1900-2013.
 
-* Relative anomaly spline interpolation technique calculates daily weather data for 460,000 2.5km x 2.5km grids in the US. [Technique Documentation](https://github.com/johnwoodill/Data-Science-Portfolio/raw/master/docs/interpolation_technique.pdf)
+* Relative anomaly spline interpolation technique calculates daily weather data for 460,000 2.5km x 2.5km grids in the US. [[Tech. Example](https://github.com/johnwoodill/Data-Science-Portfolio/raw/master/docs/interpolation_technique.pdf)]
 
 * Aggregates down to county level weather data.
 
