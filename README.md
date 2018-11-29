@@ -1,7 +1,17 @@
 # Data Science Portfolio/Projects
 
 -------------------
+###  Statistical Models from Scratch
 
+* Neural Network from Scratch: [NeuralNetwork.py]()
+
+* Relative anomaly spline interpolation technique calculates daily weather data for 460,000 2.5km x 2.5km grids in the US. [[Tech. Example](https://github.com/johnwoodill/Data-Science-Portfolio/raw/master/docs/interpolation_technique.pdf)]
+
+* Aggregates down to county level weather data.
+
+* **Keywords**(R, Economics, Climate Change, Weather)
+
+<img src="https://github.com/johnwoodill/Data-Science-Portfolio/raw/master/figures/daily_temp_spline.png" width="500">
 
 ###  [Fine Scale Weather Data from 1900-2013](https://github.com/johnwoodill/Fine-Scale-Weather-Interpolation)
 
