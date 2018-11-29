@@ -9,6 +9,8 @@ I find the best way to learn a specific algorithm or statistical model is to bui
 
 * Random Forest from Scratch: [RandomForest.py](https://github.com/johnwoodill/Data-Science-Portfolio/blob/master/Scratch%20Models/RandomForest.py)
 
+<img src="https://github.com/johnwoodill/Data-Science-Portfolio/raw/master/figures/scratch_logo.png" width="500">
+
 * **Keywords**(R, Python, Statistical Modeling, Algorithms)
 
 ###  [Fine Scale Weather Data from 1900-2013](https://github.com/johnwoodill/Fine-Scale-Weather-Interpolation)
