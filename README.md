@@ -1,7 +1,7 @@
 # Data Science Portfolio/Projects
 
 -------------------
-###  Statistical Models from Scratch
+###  [Statistical Models from Scratch](https://github.com/johnwoodill/Data-Science-Portfolio/tree/master/Scratch%20Models)
 
 * Neural Network from Scratch: [NeuralNetwork.py](https://github.com/johnwoodill/Data-Science-Portfolio/blob/master/Scratch%20Models/NeuralNetwork.py)
 
