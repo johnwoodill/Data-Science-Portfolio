@@ -3,6 +3,8 @@
 -------------------
 ###  [Statistical Models from Scratch](https://github.com/johnwoodill/Data-Science-Portfolio/tree/master/Scratch%20Models)
 
+I find the best way to learn a specific algorithm or statistical model is to build one from scratch. The following files are classes and functions that accomplish the most common statistical learning methods on a limited level.
+
 * Neural Network from Scratch: [NeuralNetwork.py](https://github.com/johnwoodill/Data-Science-Portfolio/blob/master/Scratch%20Models/NeuralNetwork.py)
 
 * Random Forest from Scratch: [RandomForest.py](https://github.com/johnwoodill/Data-Science-Portfolio/blob/master/Scratch%20Models/RandomForest.py)
