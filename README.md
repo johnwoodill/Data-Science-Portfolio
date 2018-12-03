@@ -5,9 +5,13 @@
 
 I find the best way to learn a specific algorithm or statistical model is to build one from scratch. The following files are classes and functions that accomplish the most common statistical learning methods on a limited level.
 
-* Neural Network from Scratch: [NeuralNetwork.py](https://github.com/johnwoodill/Data-Science-Portfolio/blob/master/Scratch%20Models/NeuralNetwork.py)
+* Linear Regression with Gradient Descent: [LinearRegression_GD.py](https://github.com/johnwoodill/Data-Science-Portfolio/blob/master/Scratch%20Models/LinearRegression_GD.py)
 
-* Random Forest from Scratch: [RandomForest.py](https://github.com/johnwoodill/Data-Science-Portfolio/blob/master/Scratch%20Models/RandomForest.py)
+* Decision Tree: [DecisionTree.py](https://github.com/johnwoodill/Data-Science-Portfolio/blob/master/Scratch%20Models/DecisionTree.py)
+
+* Random Forest: [RandomForest.py](https://github.com/johnwoodill/Data-Science-Portfolio/blob/master/Scratch%20Models/RandomForest.py)
+
+* Neural Network: [NeuralNetwork.py](https://github.com/johnwoodill/Data-Science-Portfolio/blob/master/Scratch%20Models/NeuralNetwork.py)
 
 <img src="https://github.com/johnwoodill/Data-Science-Portfolio/raw/master/figures/scratch_logo.png" width="500">
 
