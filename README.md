@@ -7,7 +7,7 @@ I find the best way to learn a specific algorithm or statistical model is to bui
 
 * Linear Regression (Gradient Descent): [LinearRegression_GD.py](https://github.com/johnwoodill/Data-Science-Portfolio/blob/master/Scratch%20Models/LinearRegression_GD.py)
 
-* Logistic Regression (Gradient Descent): [LinearRegression_GD.py](https://github.com/johnwoodill/Data-Science-Portfolio/blob/master/Scratch%20Models/LogisticRegression_GD.py)
+* Logistic Regression (Gradient Descent): [LogisticRegression_GD.py](https://github.com/johnwoodill/Data-Science-Portfolio/blob/master/Scratch%20Models/LogisticRegression_GD.py)
 
 * Decision Tree: [DecisionTree.py](https://github.com/johnwoodill/Data-Science-Portfolio/blob/master/Scratch%20Models/DecisionTree.py)
 
