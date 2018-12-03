@@ -5,7 +5,9 @@
 
 I find the best way to learn a specific algorithm or statistical model is to build one from scratch. The following files are classes and functions that accomplish the most common statistical learning methods on a limited level.
 
-* Linear Regression with Gradient Descent: [LinearRegression_GD.py](https://github.com/johnwoodill/Data-Science-Portfolio/blob/master/Scratch%20Models/LinearRegression_GD.py)
+* Linear Regression (Gradient Descent): [LinearRegression_GD.py](https://github.com/johnwoodill/Data-Science-Portfolio/blob/master/Scratch%20Models/LinearRegression_GD.py)
+
+* Logistic Regression (Gradient Descent): [LinearRegression_GD.py](https://github.com/johnwoodill/Data-Science-Portfolio/blob/master/Scratch%20Models/LogisticRegression_GD.py)
 
 * Decision Tree: [DecisionTree.py](https://github.com/johnwoodill/Data-Science-Portfolio/blob/master/Scratch%20Models/DecisionTree.py)
 
