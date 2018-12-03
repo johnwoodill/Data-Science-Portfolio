@@ -15,7 +15,7 @@ I find the best way to learn a specific algorithm or statistical model is to bui
 
 * Neural Network: [NeuralNetwork.py](https://github.com/johnwoodill/Data-Science-Portfolio/blob/master/Scratch%20Models/NeuralNetwork.py)
 
-<img src="https://github.com/johnwoodill/Data-Science-Portfolio/raw/master/figures/scratch_logo.png" width="500">
+<img src="https://github.com/johnwoodill/Data-Science-Portfolio/raw/master/figures/scratch_logo.png" width="700">
 
 * **Keywords**(R, Python, Statistical Modeling, Algorithms)
 
