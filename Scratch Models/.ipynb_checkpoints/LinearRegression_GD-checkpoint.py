@@ -10,12 +10,6 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 
-def foo(x):
-    return print(x)
-
-
-
-
 def gradient_descent(alpha, x, y, conv=0.0001, max_iter=1000):
     converged  = False
     iter = 0
