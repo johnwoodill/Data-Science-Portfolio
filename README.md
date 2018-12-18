@@ -1,7 +1,42 @@
 # Data Science Portfolio/Projects
 
 -------------------
-###  [Statistical Models from Scratch](https://github.com/johnwoodill/Data-Science-Portfolio/tree/master/Scratch%20Models)
+###  [Books and Courses Completed]()
+
+
+### Books
+
+* Econometrics (Hanson 2018) - Great introduction to graduate econometrics [[pdf]](https://www.ssc.wisc.edu/~bhansen/econometrics/Econometrics.pdf)
+
+* Econometric Analysis of Cross Section and Panel Data, Second Edition (Wooldridge 2010) - Standard reference that should be on every shelf [[Book Description]](https://mitpress.mit.edu/books/econometric-analysis-cross-section-and-panel-data-second-edition)
+
+* Regression Modeling Strategies (Harrell 2001) - The first three chapters are required reading -- Frank Harrell knows his statistics. [[Book Description]](https://www.springer.com/us/book/9781441929181)
+
+* Applied Nonparametric Econometrics (Henderson and Parmeter 2015) - Start to finish nonparametric econometrics with applications and R code [[Book Website]](http://www.the-smooth-operators.com/) [[Personal Bookdown Notes]](https://beta.rstudioconnect.com/content/1550/)
+
+* Introduction to Statistical Learning (James et. al 2017) - Perfect introduction to statistical learning and predictions [[Book Website]](https://www-bcf.usc.edu/~gareth/ISL/) [[pdf]](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf) [[Personal Notes]](Notes-Intro-to-Stat-Learning/Notes-Intro-to-Stat-Learning.pdf) [[Python Code]](https://github.com/johnwoodill/Notes-Intro-to-Stat-Learning/tree/master/code)
+
+* **(In Progress)** Hands on Machine Learning with Scikit-Learn and TensorFlow (Geron 2017) -  [[Book Description]](http://shop.oreilly.com/product/0636920052289.do)
+
+### Courses
+
+* Introduction to Data Science with R (O'Reilly 2014) [[Course Website]](https://www.oreilly.com/library/view/introduction-to-data/9781491915028/)
+
+* [Data Camp](www.datacamp.com)
+    * [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+    * [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
+    * [Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1)
+    * [Cleaning Data in Python](https://www.datacamp.com/courses/cleaning-data-in-python)
+    * [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
+    * [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
+    * [Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
+    * **Data Camp Projects**
+        * [Where Are the Fishes](https://www.datacamp.com/projects/547) - Explore acoustic backscatter data to find fish in the U.S. Atlantic Ocean.
+        * [Exploring the evolution of Linus](https://www.datacamp.com/projects/111) - Find out about the development of the Linux operating system by exploring its Git repository history.
+        * [Dr. Semmelweis and the Discovery of Handwashing](https://www.datacamp.com/projects/20) - Reanalyse the data behind one of the most important discoveries of modern medicine: Handwashing.
+
+-------------------
+###  [Statistical Models from Scratch]()
 
 I find the best way to learn a specific algorithm or statistical model is to build one from scratch. The following files are classes and functions that accomplish the most common statistical learning methods on a limited level.
 
