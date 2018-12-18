@@ -59,7 +59,7 @@ def k_nearest_neighbors(data, predict, k=3, scale=False):
         # Now calculate E. Squared Distance
         for group in data:
             for features in data[group]:
-                euclidean_distance2 = np.linalg.norm(np.array(features)-np.array(predict))
+                euclidean_distance2 = np.linalg.norm(np.array(features)-np.array(predict))**2
                 distances2.append([euclidean_distance2,group])
                 
         # Sort values in distances and get K closests observations
