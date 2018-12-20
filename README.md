@@ -51,6 +51,8 @@ I find the best way to learn a specific algorithm or statistical model is to bui
 
 * SVM: [SVM.py](https://github.com/johnwoodill/Data-Science-Portfolio/blob/master/Scratch%20Models/SVM.py)
 
+* PCA: [SVM.py](https://github.com/johnwoodill/Data-Science-Portfolio/blob/master/Scratch%20Models/PCA.py)
+
 * Neural Network: [NeuralNetwork.py](https://github.com/johnwoodill/Data-Science-Portfolio/blob/master/Scratch%20Models/NeuralNetwork.py)
 
 <img src="https://github.com/johnwoodill/Data-Science-Portfolio/raw/master/figures/scratch_logo.png" width="700">
