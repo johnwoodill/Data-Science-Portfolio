@@ -26,8 +26,9 @@
     * [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
     * [Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1)
     * [Cleaning Data in Python](https://www.datacamp.com/courses/cleaning-data-in-python)
-    * [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
     * [Supervised Learning with scikit-learn](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
+    * [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
+    * [Extreme Gradient Boosting with XGBoost](https://www.datacamp.com/courses/extreme-gradient-boosting-with-xgboost)
     * [Intro to SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
     * **Data Camp Projects**
         * [Where Are the Fishes](https://www.datacamp.com/projects/547) - Explore acoustic backscatter data to find fish in the U.S. Atlantic Ocean.
