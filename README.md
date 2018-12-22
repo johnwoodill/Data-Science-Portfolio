@@ -21,7 +21,7 @@
 
 * Introduction to Data Science with R (O'Reilly 2014) [[Course Website]](https://www.oreilly.com/library/view/introduction-to-data/9781491915028/)
 
-* [Data Camp](www.datacamp.com) [Personal Profile](https://www.datacamp.com/profile/johnwoodill)
+* [Data Camp](www.datacamp.com) [[Personal Profile](https://www.datacamp.com/profile/johnwoodill)]
     * [Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science)
     * [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
     * [Python Data Science Toolbox (Part 1)](https://www.datacamp.com/courses/python-data-science-toolbox-part-1)
