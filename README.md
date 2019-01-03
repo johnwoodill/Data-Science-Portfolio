@@ -15,6 +15,8 @@
 
 * Introduction to Statistical Learning (James et al. 2017) - Perfect introduction to statistical learning and predictions [[Book Website]](https://www-bcf.usc.edu/~gareth/ISL/) [[pdf]](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf) [[Personal Notes]](Notes-Intro-to-Stat-Learning/Notes-Intro-to-Stat-Learning.pdf) [[Python Code]](https://github.com/johnwoodill/Notes-Intro-to-Stat-Learning/tree/master/code)
 
+* **(In Progress)** Fluent Python (Ramalho 2015) - [[Book Website]](http://shop.oreilly.com/product/0636920032519.do) 
+
 * **(In Progress)** The Elements of Statistical Learning (Hastie et al. 2009) - [[Book Website]](https://web.stanford.edu/~hastie/ElemStatLearn/) [[pdf]](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf)
 
 * **(In Progress)** Hands on Machine Learning with Scikit-Learn and TensorFlow (Geron 2017) -  [[Book Description]](http://shop.oreilly.com/product/0636920052289.do) [[Personal Notes]](https://github.com/johnwoodill/Hands-On-ML-with-scikit-learn-and-TF/blob/master/Notes-Hands-On-ML-with-scikit-learn-and-TF.pdf) [[Github]](https://github.com/johnwoodill/Hands-On-ML-with-scikit-learn-and-TF)
